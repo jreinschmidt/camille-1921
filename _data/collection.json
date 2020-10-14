@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Camille 1921" ] },
+    "summary": { "en": [ "Annotations for Alla Nazimova&#39;s Camille 1921" ] },
+    "items": [
+    ]
+}
