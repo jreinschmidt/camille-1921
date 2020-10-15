@@ -5,7 +5,7 @@
     "label": { "en": [ "Camille 1921" ] },
     "homepage": [
       {
-        "id": "",
+        "id": "https://archive.org/details/Camille1921",
         "type": "Text",
         "label": { "en": [ "Home page for Camille 1921" ] },
         "format": "text/html"
