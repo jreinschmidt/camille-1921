@@ -113,7 +113,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://archive.org/details/Camille1921",
+                  "id": "https://archive.org/download/Camille1921/Camille%201921.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 4170.0
                 },
                 "target": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas"
