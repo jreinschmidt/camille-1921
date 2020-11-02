@@ -1,0 +1,1772 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue.json",
+  "type": "AnnotationPage",
+  "label": "Dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gaston Rieux: \"There is 'the Lady with the Camellias' with the Count de Varville. She is evidently playing for higher stakes. The old Duke is getting his congé.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:03:09:04,00:03:21:22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"You really know her, Gaston?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:03:46:09,00:03:48:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GR: Would you like to meet her?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:03:51:16,00:03:54:18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "GR: \"Permit me to introduce a fellow law student.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:04:22:19,00:04:26:18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"A law student? He'd do better to study love!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:04:35:04,00:04:38:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gaston, take me home!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:05:16:11,00:05:18:19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marguerite is giving a supper party--let's drop in and surprise her!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:05:28:06,00:05:33:11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Not until you put a jewel in my hand.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:06:52:01,00:06:56:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Madame, you are ill! You should not have gone out--send them away and call the doctor.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:07:42:04,00:07:50:17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"What does it matter, Nanine? Who is there to care whether I live or not?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:07:56:21,00:08:03:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Poor boy--he is mad about you!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:09:15:25,00:09:19:04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Not until you put a jewel in my hand.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:09:29:10,00:09:33:08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Let us drink to the Count whose wine we spill-- Who never objects to footing the bill--\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:10:15:11,00:10:23:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Who is very persistent in his attentions-- Yet never conceals his-- intentions!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:10:30:06,00:10:35:21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"A simple little girl from Bordeaux: Hair, eyes and feet--just so! /Modest little ways--dear little Clo! /The simple little girl from Bordeaux.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:11:16:11,00:11:27:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: Here just a year--everyone's dear!/ Motors, jewels, clothes--oh! ho!/ Are her eyes and feet--just so?/ Naughty little Clo--Clo from Bordeaux!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:11:50:29,00:12:02:09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, it is only Nichette! She used to work in the dressmaking shop with Marguerite.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:12:43:22,00:12:50:19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Take your hands off--she is too good for you!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:13:16:28,00:13:21:19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"She is ill!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:15:36:20,00:15:38:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She is always ill! Just when we are enjoying ourselves, on comes that cough and our fun is spoiled!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:15:40:29,00:15:50:04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"You are ill! Let me send for the doctor!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:16:17:29,00:16:21:22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"It is nothing--see how the others concern themselves!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:16:31:18,00:16:35:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"You are different! This life is unworthy of you--it is killing you!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:16:45:10,00:16:51:12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"You know who--what I am? Go home--forget that we have ever met.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:17:08:18,00:17:15:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"I wish I were a relative--your servant--a dog--that I might care for you--nurse you--make you well!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:17:22:22,00:17:32:06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"My life is not for long and short as it may be, it would outlive your love.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:17:43:20,00:17:50:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"This is no foolish fancy! Give me a chance to prove my devotion! Since I saw you this evening, nothing else seems to matter!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:17:55:07,00:18:06:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"My symbol, Armand--a camellia. Cherished, its beauty will excel the loveliest flower, but wound it with the slightest touch and it will die.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:18:42:17,00:18:53:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Go! Go and take your sponging pack with you!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:20:09:19,00:20:13:16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Leave her alone--she's drunk!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:20:29:06,00:20:32:10"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN as Manon: \"Why follow me, beloved? I am now the lowest of the low.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:25:05:17,00:25:10:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"I will gladly lay my honor at thy feet and follow the to the end of the world.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:25:17:14,00:25:25:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I could never chain you to my past, Armand--drag you down--never!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:26:18:05,00:26:24:12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nichette has made me go to work. As soon as I can earn enough money, we will be married.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:26:56:17,00:27:05:22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nichette: \"You will wear one some day.\" [AN, mouthing: \"Me?\"]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:27:12:12,00:27:17:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PD: \"Everything you possess is listed on this bill of sale. All it needs is your signature.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:28:27:12,00:28:34:29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PD: \"Does Armand know?\" [AN, mouthing: \"No, no\"]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:28:47:01,00:28:52:03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Take them back to Paris, Prudence! They have no place in this house!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:29:54:21,00:30:00:26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "PD: \"Don't be a fool, Marguerite! You are sacrificing everything when the Count offers you luxury.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:30:04:01,00:30:11:26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You are Marguerite Gautier? I am Armand Duval's father.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:31:48:23,00:31:53:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I--I am Marguerite Gautier.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:32:06:24,00:32:09:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I find that my son is about to make over his mother's legacy to you. Why rob him of his inheritance when there are so many rich men in Paris?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:32:43:06,00:32:57:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I do not know what you mean! I would not accept a penny from your son!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:33:01:00,00:33:07:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I am selling all I possess--there is no need for anxiety--I would do anything for Armand.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:33:14:12,00:33:22:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Then I ask you to give him up. I appeal to you as a father who seeks the happiness of both his children.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:33:37:07,00:33:47:29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I have a daughter who is engaged to be married--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:33:50:15,00:33:55:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There has never been a scandal in our family. It will be impossible for me to marry your daughter, unless Armand's name is no longer linked with 'the Lady with the Camellias'!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:34:09:19,00:34:24:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Her life is just beginning--my daughter's happiness is in your hands.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:34:57:04,00:35:03:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I will go away until Armand's sister is married.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:35:30:00,00:35:34:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That is not enough!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:35:40:12,00:35:43:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Do not ask me to give him up forever! He is my very life--I have not long to live!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:36:08:23,00:36:18:14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There is no future for your love--you must give him up!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:36:48:12,00:36:53:20"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Do not remind me of my past! I want to forget it!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:37:02:25,00:37:08:24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You cannot--you are chained to your past! Would you drag the man you love down into the mire?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:37:32:10,00:37:41:19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"You are right! I must make him hate me! He must never want to see me again!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:38:36:13,00:38:44:19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "He is only doing it so that Marguerite will hear of it! He has been like a madman for the past month.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:46:20:22,00:46:30:18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And Marguerite! Suppers--parties--she is drugging herself with excitement! She will kill herself!\t00;46;37;03\t00;46;44;04\t00;00;07;00\tComment\t\r\nDialogue\tLook at your broken-hearted lover!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:47:06:03,00:47:09:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"So we have both drifted back to the old life, Gaston!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:47:56:27,00:48:02:07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I am here only to watch Armand. Nichette and I are to be married on the last day of the year.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:48:09:09,00:48:18:24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"If chance could be bought with gold--like a woman--you might be the winner, my dear Count!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:49:12:01,00:49:20:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It is usually the provincial upstart who wins for the first time--and boasts of his luck!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:49:32:16,00:49:40:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You have broken the bank!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:50:10:09,00:50:13:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Why are you here Armand? I hoped you would leave Paris!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:51:26:09,00:51:31:20"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"I will--if you go with me!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:51:45:19,00:51:48:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I must not! I promised--I promised!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:52:10:14,00:52:13:26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"You promised? The Count de Varville?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:52:18:00,00:52:21:08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"Say that you love him and I will leave Paris forever!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:52:29:02,00:52:34:11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I love--the Count de Varville.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:52:58:24,00:53:02:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"You see that woman? Do you know what she has done?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:53:46:06,00:53:51:21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"Listen--all of you! I loved her more than life itself--but I was poor and could not pay! Her love was for sale--she left me!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:53:57:00,00:54:09:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"Bear witness that I pay her now--that I owe her nothing!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:54:32:29,00:54:38:08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV: \"I am through with you--and Paris, forever!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:55:32:08,00:55:36:07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Winter. With the last day of the dying year.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:56:45:08,00:56:52:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"It is the last day of December--the wedding day of Gaston and Nichette.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:58:00:14,00:58:07:11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"And to think that I am too ill to be there!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:58:14:11,00:58:19:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She is very ill.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:59:01:05,00:59:03:24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The court has ordered an immediate auction to satisfy the demands of creditors.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:59:09:29,00:59:16:05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"I know they have come--what does it matter? It is the end.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:59:59:11,01:00:05:12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Your jewels, Madame?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "01:02:23:16,01:02:26:06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"It is the most precious thing I possess!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "01:02:33:20,01:02:37:22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She is in delirium.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "01:06:15:26,01:06:18:11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Do not weep, Gaston, the world will lose nothing. I was a useless ornament--a plaything--a momentary aurora.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "01:06:58:14,01:07:06:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Armand.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "01:07:29:05,01:07:30:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/dialogue-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AN: \"Let me sleep--let me dream--I am happy.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "01:08:51:12,01:08:55:23"
+        }
+      }
+    }
+  ]
+}
