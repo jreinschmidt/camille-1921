@@ -5,7 +5,7 @@
     "label": { "en": [ "Camille 1921" ] },
     "homepage": [
       {
-        "id": "",
+        "id": "https://jreinschmidt.github.io/camille1921/camille-1921/",
         "type": "Text",
         "label": { "en": [ "Home page for Camille 1921" ] },
         "format": "text/html"
