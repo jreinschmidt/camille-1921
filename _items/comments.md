@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Comments
+title: Camille 1921
 manifest_name: comments
 ---
 <!-- Add an essay or interpretive material below this line,

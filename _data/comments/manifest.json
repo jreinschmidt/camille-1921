@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://jreinschmidt.github.io/camille-1921/comments/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Comments" ] },
+    "label": { "en": [ "Camille 1921" ] },
     "homepage": [
       {
         "id": "https://github.com/jreinschmidt/camille-1921",
         "type": "Text",
-        "label": { "en": [ "Home page for Comments" ] },
+        "label": { "en": [ "Home page for Camille 1921" ] },
         "format": "text/html"
       }
     ],
