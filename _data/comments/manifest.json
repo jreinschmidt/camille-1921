@@ -23,6 +23,86 @@
         "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4170.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/comments.json",
+            "label": "Comments"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/effect.json",
+            "label": "Effect"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/efffects.json",
+            "label": "Efffects"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/intertitles.json",
+            "label": "Intertitles"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/inscription-and-translation.json",
+            "label": "Inscription and translation"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/damage.json",
+            "label": "Damage"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/opening-titles.json",
+            "label": "Opening titles"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/book-cover.json",
+            "label": "Book cover"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/damge.json",
+            "label": "Damge"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/dialogue.json",
+            "label": "Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/effects.json",
+            "label": "Effects"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/dialoge.json",
+            "label": "Dialoge"
+          }
+        ],
         "items": [
           {
             "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/paintings",

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/effect.json",
+  "type": "AnnotationPage",
+  "label": "Effect",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas/effect-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interesting snow effect begins",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/comments/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:27:31:13"
+        }
+      }
+    }
+  ]
+}
