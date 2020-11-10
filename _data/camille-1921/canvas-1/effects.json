@@ -1,0 +1,638 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects.json",
+  "type": "AnnotationPage",
+  "label": "Effects",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris transition",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.16,120.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris transition",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "373.16,376.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris transition",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1292.21,1296.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "interesting vignette of bell tower",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1330.25,1333.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "dissolve (to images from the story)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1424.27,1426.07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "dissolve",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1467.05,1468.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "dissolve back to story",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1488.28,1491.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "dissolve",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1561.04,1562.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "iris transition",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1679.24,1683.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris transition",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1693.17,1696.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fade out/fade in (signals flashback)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2037.18,2040.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "fade out/fade in",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2091.1,2093.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "fade out/in (back to the story Manon from earlier)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2275.09,2278.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "fade out/in",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2284.23,2287.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CU on camellias",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2501.26,2504.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris out",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2537.26,2541.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris out",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2709.02,2713.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris in to another Rambova set",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2723.29,2728.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nazimova and Spider web set",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2942.27,2945.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Valentino in spider web set",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3046.13,3048.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "fade out/in out/in",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3122.26,3129.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3399.07,3403.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Iris",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3414.12,3419.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Bell vignette",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3471.08,3475.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Bell vignette and dissolve to flashback",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3892.22,3895.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Blur effect to indicate Marguerite's health decline/\"delirium\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3989.28,3992.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gaston and Nichette slowly come into focus",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3996.18,3999.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "slow dissolve to flashback",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4078.03,4080.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Armand and Marguerite memory slowly blurs and dissolves back to present",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4098.04,4107.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/effects-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Slow Iris in",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4157.02,4163.18"
+        }
+      }
+    }
+  ]
+}

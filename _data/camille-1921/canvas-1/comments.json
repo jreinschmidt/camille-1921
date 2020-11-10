@@ -1,0 +1,323 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments.json",
+  "type": "AnnotationPage",
+  "label": "Comments",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nazimova's entrance",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "151.28,161.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A view of Rambova's full opening set",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "290.25,300.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Set change",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "373.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Full view of Rambova set 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392.02,404.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nazimova close up, tone shift when Marguerite is alone",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "439.25,447.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nazimova mirror med shot",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "502.23,508.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nazimova cu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "565.04,569.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Valentino cu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "644.11,649.07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Valentino cu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "691.2,693.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "lesbian subtext, same sex kiss with Marguerite and Nichette",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754.0,757.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marguerite and Nichette",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "773.03,775.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marguerite and Nichette, second kiss and subtext",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "782.01,834.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marguerite/Nichette third & fourth kiss",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "847.12,850.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Valentino kisses sword",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1543.09,1545.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/comments-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nichette is back and Marguerite kisses her on the mouth Again",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1598.17,1604.1"
+        }
+      }
+    }
+  ]
+}

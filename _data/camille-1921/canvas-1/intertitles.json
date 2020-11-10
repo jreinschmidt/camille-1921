@@ -1,0 +1,344 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles.json",
+  "type": "AnnotationPage",
+  "label": "Intertitles",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille! What a magic conjuring of players who have portrayed Dumas' immortal \"Daughter of Chance\". And with them comes to mind the thought of basque and crinoline.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "70.29,85.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But why not a Camille of today? Living the same story in this generation?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "86.09,96.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Winter. Paris, magic city of pleasure, yet beneath its tinseled gaiety throbbing with life's grim note of passion and tragedy.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "98.25,111.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It was all new to Armand Duval who had just come from the provinces. ...Rudolph Valentino\r\n",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "127.0,135.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But his boyhood friend, Gaston Rieux, had grown blasé. ...Rex Cherryman",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "139.22,146.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Lady with the Camellias. She was a useless ornament--a plaything--a bird of passage--a momentary aurora. Marguerite Gautier, Nazimova",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.24,173.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Prudence was a sponger on her younger and more successful sisters. ...Zeffie Tilbury",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "306.26,314.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Spring. Away from the old life, Armand's tender care proved that love is the greatest doctor.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1298.28,1309.07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "RV, reading: And so Marguerite heard the story of Manon Lescaut, child of passion, exiled to the New World with the scum of Paris--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1410.02,1421.15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "#NAME?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1440.21,1448.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Over Marguerite fell the shadow of a vague presentiment. She was Manon and Armand was--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1477.2,1483.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Summer. Secrets--schemes--sacrifices for future happiness.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1685.06,1692.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "At nightfall, Marguerite left for Paris.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2543.06,2549.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Autumn. The Hazard d'Or, the smartest gaming place in Paris.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2715.15,2723.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Paris boasted a new Daughter of Chance, whose golden beauty bade fair to rival \"the Lady with the Camellias:. Olympe ...Consuelo Flowerton\r\n",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2749.07,2761.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/intertitles-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "THE END. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4164.17,4169.07"
+        }
+      }
+    }
+  ]
+}

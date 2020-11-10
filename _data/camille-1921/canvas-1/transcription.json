@@ -1,0 +1,239 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Book titled: Manon lescaut",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1654.15,1656.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Flowers with card labeled \"Comte de Varville\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1769.02,1772.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Comte de Varville",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1784.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I Marguerite Gautier hereby authorize Prudence Duvernay to sell the following items...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1837.25,1849.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Letter \"Comte de Varville\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2295.27,2299.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Note from Marguerite and translation - \"Notre petite escapade est finie, Armand, je retoirne a Paris. Rentres chez toi et oublis. Marguerite / Our little escapade is over, Armand, I am returning to Paris-- Go home and forget! Marguerite",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2382.04,2396.08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marguerite's note - Our little escapade is over, Armand, I am returning to Paris-- Go home and forget! Marguerite",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2657.25,2663.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marguerite's letter in French - \"Tout ce que je possede doit etre vendu pour payer mes creamciers, a l'exeption d'un volume de Manor Lescaut. C'est le seul cadeau que j'ai recu d'Armand. Donney le lui, et quand je ne serai plus dites lui combieu je l'aimac Marguerite Gautier",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3630.29,3634.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the letter in English - \"All my possesions are to be sold to pay my creditors, with the exception of a volume of Manon Lescaut-- the only gift I ever recieved from Armand. When I am gone, give it to him--and tell him how much I loved him. Marguerite Gautier",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3635.16,3653.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Book cover - Manon Lescaut",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3783.18,3785.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Inscription - \"Marguerite a Armand, Amour\" / Translation \"Marguerite to Armand, Love\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3834.2,3843.2"
+        }
+      }
+    }
+  ]
+}
