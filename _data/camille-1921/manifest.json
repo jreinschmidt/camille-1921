@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Camille 1921" ] },
+    "homepage": [
+      {
+        "id": "https://github.com/jreinschmidt/camille-1921",
+        "type": "Text",
+        "label": { "en": [ "Home page for Camille 1921" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/details/Camille1921",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 4170.0,
+        "items": [
+          {
+            "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia803204.us.archive.org/34/items/Camille1921/Camille%201921.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 4170.0
+                },
+                "target": "https://jreinschmidt.github.io/camille-1921/camille-1921/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
