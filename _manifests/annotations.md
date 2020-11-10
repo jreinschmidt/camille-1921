@@ -1,5 +1,5 @@
 ---
 layout: manifest
-title: Annotations
+title: Camille 1921 Annotations
 manifest_name: annotations
 ---

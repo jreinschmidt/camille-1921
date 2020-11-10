@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Annotations
+title: Camille 1921 Annotations
 manifest_name: annotations
 ---
 <!-- Add an essay or interpretive material below this line,

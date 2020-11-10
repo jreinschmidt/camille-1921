@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://jreinschmidt.github.io/camille-1921/annotations/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Annotations" ] },
+    "label": { "en": [ "Camille 1921 Annotations" ] },
     "homepage": [
       {
         "id": "https://github.com/jreinschmidt/camille-1921",
         "type": "Text",
-        "label": { "en": [ "Home page for Annotations" ] },
+        "label": { "en": [ "Home page for Camille 1921 Annotations" ] },
         "format": "text/html"
       }
     ],
