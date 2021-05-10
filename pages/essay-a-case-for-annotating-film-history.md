@@ -6,7 +6,7 @@ permalink: essay-a-case-for-annotating-film-history
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 
-AudiAnnotate: A Case for Annotating Film History
+Essay: A Case for Annotating Film History
 
 AudiAnnotate Audiovisual Extensible Workflow (AWE) is an annotation project created to “accelerate access to, promote scholarship and teaching with, and extend understanding of significant digital audiovisual collections in the humanities” (HiPSTAS). The AudiAnnotate project is hosted on GitHub with a website created by Brumfield Labs. For the past eight months, AudiAnnotate has included support for video as well as audio annotations. I am currently working on a research use case with audiovisual materials - particularly feature films from the early film industry. Not only is annotation important and useful for oral history interviews and spoken words, but it also aids in the study of film as a visual artform, and even film with no sound or spoken dialogue.
 
@@ -33,11 +33,17 @@ The annotation of film aids research in film history and adds to my understandin
 Works Cited
 
 AudiAnnotate, HiPSTAS, hipstas.org/audiannotate/.
+
 Cukor, George, et al. Girls About Town. 1931.
+
 Halberstam, Jack. In A Queer Time and Place: Transgender Bodies, Subcultural Lives. Vol. 3. NYU press, 2005.
+
 Love, Heather. Feeling backward: Loss and the Politics of Queer History. Harvard University Press, 2009.
+
 Mikesell, Terry. “Group’s Rescue of Old Films Preserves Glimpse Into Past.” The Film Foundation, Martin Scorsese, 23 Feb. 2017.
+
 Nazimova, Alla, et al. Camille. 1921.
+
 Potter, Susan. Queer Timing: The Emergence of Lesbian Sexuality in Early Cinema. University of Illinois Press, 2019.
 
 
