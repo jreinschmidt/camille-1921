@@ -5,23 +5,9 @@ permalink: introduction
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
+
 For this AudiAnnotate research use case, I created annotations for the entire silent film Camille (1921), produced by Alla Nazimova and starring Nazimova and Rudolph Valentino. These annotations include a transcription of the dialogue, comments on filmmaking choices, editing techniques, special effects, physical damage to the film copy, and notes about a few scenes with queer subtext. This audiovisual annotation project is a document to refer back to while I write and research my MA thesis chapter “Alla Nazimova, The Sewing Circle and Silent Era Lesbian Reception” which discusses Nazimova’s impact on the early Hollywood film industry and audiences from a queer perspective. These annotations serve a larger function as a document of the film - preservation of silent film is very important to me and the majority of films from that era (90%) are lost. This project serves as an interactive document of the film’s credits, script, damage to the film used to make this digital copy, and the techniques used in the film. The act of annotating this film has also added to my experience of silent film and the editing techniques of the silent era, revealing a queer temporality in the annotation process itself. In order to understand the context of the film and my annotations, the next two paragraphs summarize some background information on the film from my thesis chapter.
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
 Camille (1921) was produced by Nazimova Productions and stars Nazmova as Marguerite Gautier and Rudolph Valentino as Armand Duval. Natacha Rambova, who would become Valentino’s second wife, was the art director. June Mathis wrote this screen adaptation of Alexandre Dumas’s original story. The film follows courtesan Marguerite as she falls in love with Armand and struggles with tuberculosis. Camille was the last film Nazimova made for MGM before she left to pursue independent productions, a decision that ended her film career prematurely. Although the film was submitted and passed by the National Board of Review in 1921, it probably wouldn’t have passed the later Hollywood Production Code of 1934 without significant edits due to the very thinly veiled suggestions of prostitution. Marguerite is a prostitute who seems to enjoy or at least take some pleasure in her lifestyle before she contracts tuberculosis. She does both give up her lover and eventually die alone, but the implications of prostitution are still probably too overt for future censors. The film also has several scenes with same sex kisses between Marguerite and Nichette (Patsy Ruth Miller), an act that was allowed in silent and pre-Code films but is almost never seen after 1934. Although the kisses are played off as friendly pecks, the lesbian subtext of this relationship is clear to savvy audiences. This subtext along with Rambova’s designs and the queer personas of Valentino and Nazimova cement the film’s place as an artifact of queer cinema history.
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
 Valentino was relatively unknown when Nazimova hand picked him to play Armand Duval in the film. By the time the film released however, he had gained overnight stardom through his role in The Sheik, which helped make Camille a big box office success. Today, Valentino is seen as a gay icon, most notably due to speculation in Kenneth Anger’s sensational Hollywood Babylon which was riddled with inaccuracies. However, at the height of his fame, Valentino had an androgynous star persona and a large audience of primarily young women. In Queer Timing, author Susan Potter posits the idea that Valentino’s stardom had a queer appeal to his female audience instead of only focusing on the potential heterosexual fantasies of many of his female fans (Potter 123). There is a level of identification that lesbian audiences felt watching Valentino that has not been explored in most discussions of his star persona. The androgyny and sexual difference of Nazimova and Valentino on screen together coupled with the sets and costumes of Rambova and the queer subtext in the film all create a meaningful feat of early queer cinema.
